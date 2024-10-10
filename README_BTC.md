@@ -6,7 +6,7 @@ This repository contains data from a study conducted as part of JPEG AIC-3 activ
 
 For detailed information about the BTC experiment, see: [Link to the paper will be added here]
 
-The study was conducted on Amazon Mechanical Turk from January 4 to January 10, 2024. The data includes responses from crowd workers to triplets of images with boosted distortions, as well as demographic information about the workers.
+The study was conducted on Amazon Mechanical Turk (MTurk) from January 4 to January 10, 2024. The data includes responses from crowd workers to triplets of images with boosted distortions, as well as demographic information about the workers.
 
 ## Files in the Repository
 
