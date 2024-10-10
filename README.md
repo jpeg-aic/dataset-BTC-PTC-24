@@ -1,4 +1,4 @@
-# JPEG AIC-3 BTC Subjective Study Data
+# JPEG AIC-3 Subjective Study Data
 
 This repository contains data from a study conducted as part of JPEG AIC-3 activities using boosted triplet comparisons (BTC). For more information about the JPEG AIC-3, see: [JPEG AIC-3](https://jpeg.org/aic/index.html).
 
