@@ -97,14 +97,7 @@ By following these instructions, users should be able to effectively work with t
 
 ## License
 
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-Please cite the following work if you use this dataset in any way:
-
-Michela Testolina, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su,  
-Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe.  
-“Fine-grained subjective visual quality assessment for high-fidelity compressed images”.  
-In: Accepted for oral presentation at 2025 Data Compression Conference (DCC). IEEE. 2025, 1–10.
+ 
 
 
 ## Contact
