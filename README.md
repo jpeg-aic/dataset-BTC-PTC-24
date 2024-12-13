@@ -105,7 +105,7 @@ Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe.
 “Fine-grained subjective visual quality assessment for high-fidelity compressed images”.
 In:Data Compression Conference (DCC), Accepted, IEEE. 2025.
 
-arXiv preprint: arXiv:2410.09501 (2024).
+arXiv preprint: https://doi.org/10.48550/arXiv.2410.09501
 
 
 ## Contact
