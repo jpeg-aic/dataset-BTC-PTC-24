@@ -96,8 +96,16 @@ user_data = readtable(user_file_name, user_opts);
 By following these instructions, users should be able to effectively work with the datasets and understand the purpose and type of each column included.
 
 ## License
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
- 
+Please cite the following work if you use this dataset in any way:
+
+Michela Testolina, Mohsen Jenadeleh, Shima Mohammadi, Shaolin Su,
+Joao Ascenso, Touradj Ebrahimi, Jon Sneyers, and Dietmar Saupe.
+“Fine-grained subjective visual quality assessment for high-fidelity compressed images”.
+In:Data Compression Conference (DCC), Accepted, IEEE. 2025.
+
+arXiv preprint: arXiv:2410.09501 (2024).
 
 
 ## Contact
